@@ -1,0 +1,1 @@
+# Hibernate-Postgressql-Karaf-4.1.0
