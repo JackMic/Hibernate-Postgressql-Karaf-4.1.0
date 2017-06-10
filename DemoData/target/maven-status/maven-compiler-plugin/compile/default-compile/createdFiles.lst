@@ -1,5 +1,0 @@
-com\data\dao\api\StoreDao.class
-com\data\dao\vo\Store.class
-com\data\dao\impl\StoreDaoImpl.class
-com\data\dao\api\DataActivator.class
-com\data\dao\cli\StoreAddCommand.class
